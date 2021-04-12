@@ -12,21 +12,13 @@ There is a university which needs to add students through the system in registra
  ### Add Student API
  
  1. Sample Request
- \
-&nbsp;
- `{
-
-   "name":"chathuranga krishani",
-   "age":"24",
-   "gender":"Female",
-   "address":"12/A, Dikwalla Road, Malambe",
-   "email":"yxzabd@yzm.com",
-   "birthday":"10/07/1993",
-   "phone":"+94776600259"
-}
 `
-
-
+{
+"description":"Student has successfully added",
+"studentID":"45",
+"responseCode":"20",
+"transactionId":"31b408f9-eec7-4c76-8d6c-9609a30e6cab"
+}
 Sample Response
 \
 &nbsp;

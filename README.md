@@ -7,11 +7,13 @@ There is a university which needs to add students through the system in registra
 
 <p align="middle">
   <img src="../master/readme-images/data-dictonary.jpg"/>
- </p>
+</p>
  
  ### Add Student API
  
  1. Sample Request
+ \
+&nbsp;
  `{
 
    "name":"chathuranga krishani",

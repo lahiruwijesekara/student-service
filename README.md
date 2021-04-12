@@ -12,8 +12,7 @@ There is a university which needs to add students through the system in registra
  ### Add Student API
  
  1. Sample Request
- `
- {
+ `{
 
    "name":"chathuranga krishani",
    "age":"24",

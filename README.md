@@ -20,6 +20,9 @@ There is a university which needs to add students through the system in registra
 "transactionId":"31b408f9-eec7-4c76-8d6c-9609a30e6cab"
 }
 `
+
+\
+&nbsp;
 Sample Response
 \
 &nbsp;

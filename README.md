@@ -3,7 +3,7 @@
 ## Introduction
 There is a university which needs to add students through the system in registration. Once added, there should be a method to update a particular student. Student deletion should remove a student from a student data set.  The data dictionary is as per below.
 
-## Data Dictonary
+## Data Dictionary
 
 <p align="middle">
   <img src="../master/readme-images/data-dictonary.jpg"/>
